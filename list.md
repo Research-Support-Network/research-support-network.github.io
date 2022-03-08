@@ -10,11 +10,11 @@ layout: default
   <div class="card-body">
     <h4 class="card-title">{{ member.name }}</h4>
     <p class="card-text">
-Affiliation: {{ member.affiliation }}<br/>
-Country: {{ member.country }}<br/>
-E-mail: {{ member.email }}<br/>
-{% if member.website %}Website: {{ member.website }}<br/>{% endif %}
-Expertise: {{ member.expertise }}
+<strong>Affiliation:</strong> {{ member.affiliation }}<br/>
+<strong>Country:</strong> {{ member.country }}<br/>
+<strong>E-mail:</strong> {{ member.email }}<br/>
+{% if member.website %}<strong>Website:</strong> {{ member.website }}<br/>{% endif %}
+<strong>Expertise:</strong> {{ member.expertise }}
     </p>
   </div>
 </div>
