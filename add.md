@@ -3,6 +3,10 @@ title: Add member to network
 layout: default
 ---
 
+**If you have computational expertise and are open to being contacted for providing remote help and advice to scientists affected by a crisis, please fill this form to be added to the list.**
+
+Make sure you read the information on the [main page](https://research-support-network.github.io/) first.
+
 <form method="POST" action="https://research-support-network.herokuapp.com/v3/entry/github/Research-Support-Network/research-support-network.github.io/main/member-submission">
   <input name="options[redirect]" type="hidden" value="https://research-support-network.github.io">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
@@ -40,7 +44,7 @@ layout: default
     <textarea id="form-expertise" name="fields[expertise]"></textarea>
   </div>
 
-<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis.</p>
+<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="(to be added)">Code of Conduct</a> <font color=red>(to be added)</font> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
 
 <p>Your entry will appear in the list following moderator approval. You will not receive any confirmation when your entry is approved, nor if it is rejected as spam.</p>
 
