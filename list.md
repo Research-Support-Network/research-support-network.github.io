@@ -1,7 +1,13 @@
 ---
-title: Our supporters
+title: Our Volunteer Experts
 layout: default
 ---
+
+**A list of researchers with computational expertise who are willing to provide virtual support and advice for scientists forced to refocus on computational work due to a crisis.**
+
+See the [main page](https://research-support-network.github.io/) for more information on how best to contact the experts on this list.
+
+<br> 
 
 {% for member_name in site.data.members %}
 {% assign member = member_name[1] %}
