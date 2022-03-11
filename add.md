@@ -40,11 +40,11 @@ layout: default
     <textarea id="form-expertise" name="fields[expertise]"></textarea>
   </div>
 
-By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis.
+<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis.</p>
 
-Your entry will appear in the list following moderator approval. You will not receive any confirmation when your entry is approved, nor if it is rejected as spam. 
+<p>Your entry will appear in the list following moderator approval. You will not receive any confirmation when your entry is approved, nor if it is rejected as spam.</p>
 
-If you wish to have your entry removed at a later point, please open an issue on the project's [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) or write to <font color=red>(email)</font>.
+<p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <font color=red>(email)</font>.</p>
 
 <div class="mb-3 row">
     <button type="submit" class="btn btn-primary mb-3">Submit</button>
