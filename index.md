@@ -63,6 +63,8 @@ Computational experts who sign up to this list consent to being contacted (via t
 
 - If you would like to be removed from the list or have your email / details changed, please raise an issue on the project's [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) or write to <font color=red>(email)</font>.
 
+- Please report any problems with the submission form or with the list by raising an issue on the [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) or writing an to <font color=red>(email)</font>.
+
 - Disclaimers: This list functions exclusively as an "address book" to facilitate the first step in connecting someone who needs advice with someone who can give it. It is then up to the expert volunteer and the scientist seeking support to privately decide the terms of their interaction and the channels of communication. The maintainers of this list do not mediate or arbitrate these private interactions in any way, other than responding to reported [Code of Conduct](...) <font color=red>(to be added)</font> violations as detailed therein. This list is not affiliated with any organisation. The maintainers of this list may modify or delete all contents of the project's underlying [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) at any point and in any way they chose.
 
 ### Contact
