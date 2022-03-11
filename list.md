@@ -7,12 +7,12 @@ layout: default
 
 See the [main page](https://research-support-network.github.io/) for more information on how best to contact the experts on this list.
 
-<br> 
+<hr>
 
 {% for member_name in site.data.members %}
 {% assign member = member_name[1] %}
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 27rem;">
   <div class="card-body">
     <h4 class="card-title">{{ member.name }}</h4>
     <p class="card-text">
