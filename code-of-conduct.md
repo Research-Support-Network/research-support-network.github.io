@@ -16,7 +16,7 @@ The Research Support Network is dedicated to providing a welcoming and supportiv
 * Gracefully accept constructive criticism
 * Show courtesy and respect towards others
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to the list's maintainers using <font color=red>(this email)</font>. Expert volunteers who are reported to have violated the Code of Conduct will be removed from the Expert Volunteer List without investigation or notice, as the list is run purely as an "address book" and the list's maintainers are not in a position to investigate reported violations or to mediate conflicts within the private interactions between expert volunteers and scientists seeking support.
+If you believe someone is violating the Code of Conduct, we ask that you report it to the list's maintainers via email to [expertvolunteerlist@gmail.com](expertvolunteerlist@gmail.com). Expert volunteers who are reported to have violated the Code of Conduct will be removed from the Expert Volunteer List without investigation or notice, as the list is run purely as an "address book" and the list's maintainers are not in a position to investigate reported violations or to mediate conflicts within the private interactions between expert volunteers and scientists seeking support.
 
 #### Code of Conduct (Detailed View)
 
@@ -26,7 +26,7 @@ The Research Support Network is led by a small number of computational scientist
 
 To make clear what is expected, participants in list-related activities activities are expected to conform to the Code of Conduct. This Code of Conduct applies to all spaces related to the Expert Volunteer List, including, but not limited to, the private interactions between expert volunteers and scientists seeking support, the list entry submission form, the project's GitHub repository, list-related email, and list-related discussion in other public forums.
 
-The list's maintainers uphold the Code of Conduct and can be contacted at <font color=red>(email)</font>. All reports will be treated with confidentiality. Any report of a volunteer expert violating the code will lead to their removal from the list. The list's maintainers are not able to offer and explicitly dislaim all other forms of mediation or arbitration.
+The list's maintainers uphold the Code of Conduct and can be contacted by [email](expertvolunteerlist@gmail.com). All reports will be treated with confidentiality. Any report of a volunteer expert violating the code will lead to their removal from the list. The list's maintainers are not able to offer and explicitly dislaim all other forms of mediation or arbitration.
 
 ##### Part 2. Expert Volunteer List - Code of Conduct
 
@@ -61,7 +61,7 @@ Examples of unacceptable behaviour by participants in any list-related activites
 
 ##### Part 2.3. Consequences of Unacceptable behaviour
 
-Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to all list-related activities on any platform. If an expert volunteer or scientist seeking support engages in behaviour that violates this Code of Conduct, their counterpart may warn the offender, terminate the interaction, and/or inform the list's maintainers via this <font color=red>(email)</font>. 
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to all list-related activities on any platform. If an expert volunteer or scientist seeking support engages in behaviour that violates this Code of Conduct, their counterpart may warn the offender, terminate the interaction, and/or inform the list's maintainers via email to [expertvolunteerlist@gmail.com](expertvolunteerlist@gmail.com). 
 
 Expert volunteers who are reported to have violated the Code of Conduct will be removed from the Expert Volunteer List without investigation or notice, as the list is run purely as an "address book" and the list's maintainers are not in a position to investigate reported violations or to mediate conflicts arising in the private interactions between expert volunteers and scientists seeking support.
 
