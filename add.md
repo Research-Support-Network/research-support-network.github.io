@@ -50,11 +50,11 @@ Make sure you read the information on the [main page](https://research-support-n
     <textarea id="form-expertise" name="fields[expertise]"></textarea>
   </div>
 
-<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="(to be added)">Code of Conduct</a> <font color=red>(to be added)</font> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
+<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="code-of-conduct.html">Code of Conduct</a> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
 
 <p>Your entry will appear in the list following moderator approval. You will not receive any confirmation when your entry is approved, nor if it is rejected as spam.</p>
 
-<p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <font color=red>(email)</font>.</p>
+<p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <a href="mailto:expertvolunteerlist@gmail.com">expertvolunteerlist@gmail.com</a>.</p>
 
 <div class="mb-3 row">
     <button type="submit" class="btn btn-primary mb-3">Submit</button>
