@@ -7,6 +7,8 @@ layout: default
 
 See the [main page](https://research-support-network.github.io/) for more information on how best to contact the experts on this list.
 
+Note that we expect users of this list to follow our [Code of Conduct](code-of-conduct.html).
+
 <hr>
 
 <div id="card-deck">
@@ -28,6 +30,7 @@ See the [main page](https://research-support-network.github.io/) for more inform
 </div>
 
 {% endfor %}
+
 </div>
 
 <script>
