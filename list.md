@@ -9,6 +9,7 @@ See the [main page](https://research-support-network.github.io/) for more inform
 
 <hr>
 
+<div id="card-deck">
 {% for member_name in site.data.members %}
 {% assign member = member_name[1] %}
 
@@ -27,3 +28,11 @@ See the [main page](https://research-support-network.github.io/) for more inform
 </div>
 
 {% endfor %}
+</div>
+
+<script>
+var cards = document.querySelector('#card-deck');
+for (var i = cards.children.length; i >= 0; i--) {
+    cards.appendChild(cards.children[Math.random() * i | 0]);
+}
+</script>
