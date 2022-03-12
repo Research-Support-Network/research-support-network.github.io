@@ -38,6 +38,12 @@ Make sure you read the information on the [main page](https://research-support-n
   </div>
 
 <div class="mb-3 row">
+    <label for="form-languages" class="form-label">Languages</label>
+    <small class="text-muted">Please specify languages by order of preference and spearated by commas (e.g. "English, French").</small>
+    <input id="form-languages" name="fields[languages]" type="text">
+  </div>
+
+<div class="mb-3 row">
     <label for="form-expertise" class="form-label">Expertise</label>
     <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
