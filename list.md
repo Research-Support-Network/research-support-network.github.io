@@ -20,6 +20,7 @@ See the [main page](https://research-support-network.github.io/) for more inform
 <strong>Country:</strong> {{ member.country }}<br/>
 <strong>E-mail:</strong> {{ member.email }}<br/>
 {% if member.website %}<strong>Website:</strong> {{ member.website }}<br/>{% endif %}
+{% if member.languages %}<strong>Languages:</strong> {{ member.languages }}<br/>{% endif %}
 <strong>Expertise:</strong> {{ member.expertise }}
     </p>
   </div>

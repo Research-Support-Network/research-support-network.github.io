@@ -1,5 +1,5 @@
 member-submission:
-  allowedFields: ["name", "affiliation", "country", "email", "website", "expertise"]
+  allowedFields: ["name", "affiliation", "country", "email", "website", "languages", "expertise"]
 
   # (*) REQUIRED
   #
