@@ -31,6 +31,7 @@ See the [main page](https://research-support-network.github.io/) for more inform
 </div>
 
 <script>
+// From https://stackoverflow.com/a/11972692
 var cards = document.querySelector('#card-deck');
 for (var i = cards.children.length; i >= 0; i--) {
     cards.appendChild(cards.children[Math.random() * i | 0]);
