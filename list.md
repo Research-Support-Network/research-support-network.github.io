@@ -7,8 +7,11 @@ layout: default
 
 See the [main page](https://research-support-network.github.io/) for more information on how best to contact the experts on this list.
 
+Note that we expect users of this list to follow our [Code of Conduct](code-of-conduct.html).
+
 <hr>
 
+<div id="card-deck">
 {% for member_name in site.data.members %}
 {% assign member = member_name[1] %}
 
@@ -20,9 +23,20 @@ See the [main page](https://research-support-network.github.io/) for more inform
 <strong>Country:</strong> {{ member.country }}<br/>
 <strong>E-mail:</strong> {{ member.email }}<br/>
 {% if member.website %}<strong>Website:</strong> {{ member.website }}<br/>{% endif %}
+{% if member.languages %}<strong>Languages:</strong> {{ member.languages }}<br/>{% endif %}
 <strong>Expertise:</strong> {{ member.expertise }}
     </p>
   </div>
 </div>
 
 {% endfor %}
+
+</div>
+
+<script>
+// From https://stackoverflow.com/a/11972692
+var cards = document.querySelector('#card-deck');
+for (var i = cards.children.length; i >= 0; i--) {
+    cards.appendChild(cards.children[Math.random() * i | 0]);
+}
+</script>

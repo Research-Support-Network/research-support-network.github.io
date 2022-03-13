@@ -38,17 +38,23 @@ Make sure you read the information on the [main page](https://research-support-n
   </div>
 
 <div class="mb-3 row">
+    <label for="form-languages" class="form-label">Languages</label>
+    <small class="text-muted">Please specify language(s) by order of preference and separated by commas (e.g. "English, French").</small>
+    <input id="form-languages" name="fields[languages]" type="text">
+  </div>
+
+<div class="mb-3 row">
     <label for="form-expertise" class="form-label">Expertise</label>
     <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
     <textarea id="form-expertise" name="fields[expertise]"></textarea>
   </div>
 
-<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="(to be added)">Code of Conduct</a> <font color=red>(to be added)</font> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
+<p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="code-of-conduct.html">Code of Conduct</a> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
 
 <p>Your entry will appear in the list following moderator approval. You will not receive any confirmation when your entry is approved, nor if it is rejected as spam.</p>
 
-<p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <font color=red>(email)</font>.</p>
+<p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <a href="mailto:expertvolunteerlist@gmail.com">expertvolunteerlist@gmail.com</a>.</p>
 
 <div class="mb-3 row">
     <button type="submit" class="btn btn-primary mb-3">Submit</button>
