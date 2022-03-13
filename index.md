@@ -11,7 +11,7 @@ layout: default
 
 ----
 
-**Expert volunteers:** [Sign up here](add.html) if If you are willing to be contacted by displaced scientists who need advice on computational work.
+**Expert volunteers:** [Sign up here](add.html) if you are willing to be contacted by displaced scientists who need advice on computational work.
 
 **Scientists seeking support:** [Browse the list here](list.html) to find a volunteer with expertise in an area that you need help with.
 
