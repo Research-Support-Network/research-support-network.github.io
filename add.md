@@ -39,7 +39,7 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-languages" class="form-label">Languages</label>
-    <small class="text-muted">Please specify languages by order of preference and spearated by commas (e.g. "English, French").</small>
+    <small class="text-muted">Please specify language(s) by order of preference and separated by commas (e.g. "English, French").</small>
     <input id="form-languages" name="fields[languages]" type="text">
   </div>
 
