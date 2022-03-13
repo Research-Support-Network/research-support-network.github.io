@@ -22,7 +22,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 ##### Part 1. Introduction
 
-The Research Support Network is led by a small number of computational scientists and runs the Expert Volunteer List. Anyone can sign up to the list and contributions to the list's open source backend via GitHub are welcome. We value the involvement of everyone contributing and utilizing the list and are committed to creating a friendly and respectful environment for anyone participating in list-related activities. All participants are expected to show respect and courtesy to others.
+The Research Support Network is led by a small number of computational scientists and runs the Expert Volunteer List. We encourage anyone with computational expertise to sign up to the list if they have the capacity to provide virtual support and advice for scientists forced to refocus on computational work due to a crisis. Contributions to the list's open source backend via GitHub are also welcome. We value the involvement of everyone contributing and utilizing the list and are committed to creating a friendly and respectful environment for anyone participating in list-related activities. All participants are expected to show respect and courtesy to others.
 
 To make clear what is expected, participants in list-related activities activities are expected to conform to the Code of Conduct. This Code of Conduct applies to all spaces related to the Expert Volunteer List, including, but not limited to, the private interactions between expert volunteers and scientists seeking support, the list entry submission form, the project's GitHub repository, list-related email, and list-related discussion in other public forums.
 
@@ -42,6 +42,8 @@ All participants in list-related activities are expected to show respect and cou
 * Be respectful of different viewpoints and experiences
 * Gracefully accept constructive criticism
 * Show courtesy and respect towards others
+
+Experts should also be mindful of the fact that scientists seeking support may be living through (or have recently lived through) extremely traumatic experiences. Be considerate and avoid bringing up topics that may cause anxiety. Conversely, be prepared for the possibility of hearing accounts that could be disturbing. We recommend focusing on the science and if necessary setting clear boundaries on other topics.
 
 ##### Part 2.2. Unacceptable behaviour
 
@@ -73,4 +75,4 @@ Equally, if anyone violates this Code of Conduct in interactions with the list's
 
 #### About this Document
 
-This document is derived from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (retrieved 2022-03-12, Copyright © [The Carpentries](https://carpentries.org), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). It has been amended and simplified in accordance with the small scope of the Expert Volunteer List. The initial contributors to this Code of Conduct were Jonas Hartmann and <font color=red>(...)</font>.
+This document is derived from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (retrieved 2022-03-12, Copyright © [The Carpentries](https://carpentries.org), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). It has been amended and simplified in accordance with the small scope of the Expert Volunteer List. The initial contributors to this Code of Conduct were Jonas Hartmann, Elisabeth Kugler and <font color=red>(...)</font>.
