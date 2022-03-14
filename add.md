@@ -29,7 +29,7 @@ Make sure you read the information on the [main page](https://research-support-n
 <div class="mb-3 row">
     <label for="form-email" class="form-label">E-mail</label>
     <small class="text-muted">You may wish to obscure your email (e.g. "jane [dot] doe [at] uni.org") to make it harder for bots to read.</small>
-    <input id="form-email" name="fields[email]" type="email">
+    <input id="form-email" name="fields[email]" type="text">
   </div>
 
 <div class="mb-3 row">
