@@ -13,23 +13,23 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-name" class="form-label">Name</label>
-    <input id="form-name" name="fields[name]" type="text">
+    <input id="form-name" name="fields[name]" type="text" required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-affiliation" class="form-label">Affiliation</label>
-    <input id="form-affiliation" name="fields[affiliation]" type="text">
+    <input id="form-affiliation" name="fields[affiliation]" type="text" required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-country" class="form-label">Country</label>
-    <input id="form-country" name="fields[country]" type="text">
+    <input id="form-country" name="fields[country]" type="text" required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-email" class="form-label">E-mail</label>
     <small class="text-muted">You may wish to obscure your email (e.g. "jane [dot] doe [at] uni.org") to make it harder for bots to read.</small>
-    <input id="form-email" name="fields[email]" type="text">
+    <input id="form-email" name="fields[email]" type="text" required>
   </div>
 
 <div class="mb-3 row">
@@ -40,7 +40,7 @@ Make sure you read the information on the [main page](https://research-support-n
 <div class="mb-3 row">
     <label for="form-languages" class="form-label">Languages</label>
     <small class="text-muted">Please specify language(s) by order of preference and separated by commas (e.g. "English, French").</small>
-    <input id="form-languages" name="fields[languages]" type="text">
+    <input id="form-languages" name="fields[languages]" type="text" required>
   </div>
 
 <div class="mb-3 row">
