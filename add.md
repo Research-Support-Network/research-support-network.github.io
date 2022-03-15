@@ -8,7 +8,7 @@ layout: default
 Make sure you read the information on the [main page](https://research-support-network.github.io/) first.
 
 <form method="POST" action="https://research-support-network.herokuapp.com/v3/entry/github/Research-Support-Network/research-support-network.github.io/main/member-submission">
-  <input name="options[redirect]" type="hidden" value="https://research-support-network.github.io">
+  <input name="options[redirect]" type="hidden" value="https://research-support-network.github.io/submitted.html">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
 
 <div class="mb-3 row">
