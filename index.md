@@ -35,7 +35,7 @@ Computational experts who sign up to this list consent to being contacted (via t
 
 #### Staying Safe
 
-- **Code of Conduct:** We expect both expert volunteers and scientists seeking support to act in accordance with our [Code of Conduct](code-of-conduct.html). Violations can be reported to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com) and will lead to the removal of implicated experts. However, this list functions exclusively as an "address book"; resulting interactions are in no way hosted or overseen by the list's maintainers. 
+- **Code of Conduct:** We expect both expert volunteers and scientists seeking support to act in accordance with our [Code of Conduct](code-of-conduct.html). Violations should be reported to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com). Experts who reportedly violated the Code of Conduct will have their entry removed from the list. Participants who reportedly violated the Code of Conduct will have their names made known to the experts so they can chose to avoid engaging with said participant. Note that this list functions exclusively as an "address book", so the resulting interactions are in no way hosted or overseen by the list's maintainers.
 
 - **Privacy and Security:** Remember that at the end of the day you are engaging in an online interaction with a stranger. Please protect yourself accordingly:
   
