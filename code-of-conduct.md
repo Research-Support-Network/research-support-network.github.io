@@ -3,8 +3,6 @@ title: Code of Conduct
 layout: default
 ---
 
-**<font color=red>[DRAFT!]</font>**
-
 ### Research Support Network - Expert Volunteer List - Code of Conduct
 
 #### Code of Conduct (Summary View)
@@ -71,7 +69,7 @@ If anyone violates this Code of Conduct in interactions with the list's maintain
 
 #### Update Logs
 
-- <font color=red>2022-03-??</font> Code of Conduct released. 
+- 2022-03-17 Code of Conduct released. 
 
 #### About this Document
 
