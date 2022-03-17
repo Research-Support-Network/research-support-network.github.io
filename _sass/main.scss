@@ -1,0 +1,108 @@
+---
+layout: null
+---
+
+/* --- General --- */
+/* Based on https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css */
+
+html {
+  font-size: 100%
+}
+
+body {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 1.125rem;
+  color: {{ site.text-col | default: "#404040" }};
+  position: relative;
+  background-color: {{ site.page-col | default: "#FFFFFF" }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+  overflow-wrap: break-word;
+}
+p {
+  line-height: 1.5;
+  margin: 1.875rem 0;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
+}
+h1 {
+  font-size: 2.25rem;
+}
+h2 {
+  font-size: 1.875rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.125rem;
+}
+h1, h2, h3, h4 {
+  margin-top: 1.25rem;
+}
+a {
+  color: {{ site.link-col | default: "#008AFF" }};
+}
+a:hover,
+a:focus {
+  color: {{ site.hover-col | default: "#0085A1" }};
+}
+blockquote {
+  color: #808080;
+  font-style: italic;
+}
+blockquote p:first-child {
+  margin-top: 0;
+}
+hr.small {
+  max-width: 6.25rem;
+  margin: 1rem auto;
+  border-width: 0.25rem;
+  border-color: inherit;
+  border-radius: 0.1875rem;
+}
+
+/* fix in-page anchors to not be behind fixed header */
+:target:before {
+  content: "";
+  display: block;
+  height: 3.125rem; /* navbar height */
+  margin: -3.125rem 0 0;
+}
+
+.hideme {
+  display: none;
+}
+
+::-moz-selection {
+  color: #fff;
+  text-shadow: none;
+  background-color: {{ site.hover-col | default: "#0085A1" }};
+}
+::selection {
+  color: #fff;
+  text-shadow: none;
+  background-color: {{ site.hover-col | default: "#0085A1" }};
+}
+img::selection {
+  color: #fff;
+  background: transparent;
+}
+img::-moz-selection {
+  color: #fff;
+  background: transparent;
+}
+
+img {
+  max-width: 100%;
+}
+
+.linked-section {
+  padding-top: 3.75rem;
+  margin-top: -1.5625rem;
+}
