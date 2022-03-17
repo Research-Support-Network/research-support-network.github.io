@@ -1,9 +1,7 @@
 ---
-title: Code of Conduct
+title: Research Support Network - Expert Volunteer List - Code of Conduct
 layout: default
 ---
-
-### Research Support Network - Expert Volunteer List - Code of Conduct
 
 #### Code of Conduct (Summary View)
 
