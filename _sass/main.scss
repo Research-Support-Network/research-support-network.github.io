@@ -1,5 +1,6 @@
-/* --- General --- */
 /* Based on https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css */
+
+/* --- General --- */
 
 html {
   font-size: 100%
@@ -14,8 +15,8 @@ body {
   overflow-wrap: break-word;
   margin-top: 3.0rem;
   margin-bottom: 3.0rem;
-  margin-left: 15.0rem;
-  margin-right: 15.0rem;
+  margin-left: 20.0rem;
+  margin-right: 20.0rem;
 }
 p {
   line-height: 1.5;
@@ -44,4 +45,11 @@ h4 {
 }
 a {
   color: "#008AFF";
+}
+
+/* --- List cards --- */
+
+card-body{
+  border: 2px solid #696969;
+  border-radius: 5px;
 }
