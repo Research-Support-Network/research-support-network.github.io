@@ -18,10 +18,12 @@ body {
   margin-top: 5.0rem;
   margin-right: auto;
 }
+
 p {
   line-height: 1.5;
   margin: 1.25em 0;
 }
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
@@ -43,13 +45,18 @@ h4 {
   font-size: 1.125rem;
   margin-top: 2.5rem;
 }
-a {
-  color: #008AFF;
-}
+
 
 /* --- List cards --- */
 
-card{
+.card{
   border: 2px solid #696969;
   border-radius: 5px;
+}
+
+
+/* --- Submission form --- */
+
+input {
+  width: 100%;
 }
