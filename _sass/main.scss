@@ -3,7 +3,8 @@
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
+  background: white;
 }
 
 body {
@@ -13,7 +14,7 @@ body {
   position: relative;
   background-color: #F5F5F5;
   overflow-wrap: break-word;
-  max-width: 1080px;
+  max-width: 1620px;
   margin-top: 5.0rem;
   margin-right: auto;
 }
@@ -48,7 +49,7 @@ a {
 
 /* --- List cards --- */
 
-card-body{
+card{
   border: 2px solid #696969;
   border-radius: 5px;
 }
