@@ -14,7 +14,7 @@ body {
   background-color: #F5F5F5;
   max-width: 1080px;
   margin: 0 auto;
-  padding: 108px 54px;
+  padding: 54px;
 }
 
 p {
@@ -50,12 +50,13 @@ h4 {
 .card{
   border: 2px solid #696969;
   border-radius: 5px;
-  padding: 5px;
+  padding: 20px;
 }
 
 
 /* --- Submission form --- */
 
 input {
+  display: block;
   width: 80%;
 }
