@@ -1,4 +1,4 @@
-/* Based on https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css */
+/* Originally based on https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css (under MIT license) */
 
 /* --- General --- */
 
@@ -44,9 +44,10 @@ h4 {
   margin-top: 2.0rem;
 }
 
-ul{
-  display: flex;
+ul li{
+  margin: 0.25rem 0;
 }
+
 
 /* --- List cards --- */
 
@@ -56,13 +57,14 @@ ul{
   padding: 20px;
 }
 
-.card-body.h4{
+.card-body h4{
   margin-top: 0;
 }
 
-.card-body.card-text{
+.card-body card-text{
   margin-bottom: 0;
 }
+
 
 /* --- Submission form --- */
 
