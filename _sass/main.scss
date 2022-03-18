@@ -43,6 +43,11 @@ h4 {
   font-size: 1.125rem;
   margin-top: 2.0rem;
 }
+h5 {
+  font-size: 1.125rem;
+  margin-top: 1.5rem;
+  padding-left: 40px;
+}
 
 ul li ul li p{
   margin: 0.6rem 0;
@@ -84,8 +89,11 @@ textarea {
   font-weight: bold;
 }
 
-.mb-3 .text-muted{
+.mb-3 small{
   width: 50%;
+}
+
+.mb-3 .text-muted{
   font-weight: normal;
   font-style: italic;
 }
