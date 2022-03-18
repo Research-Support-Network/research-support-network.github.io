@@ -15,8 +15,9 @@ body {
   background-color: #F5F5F5;
   overflow-wrap: break-word;
   max-width: 1620px;
-  margin-top: 5.0rem;
-  margin-right: auto;
+  margin: auto;
+  // margin-top: 5.0rem;
+  // margin-right: auto;
 }
 
 p {
@@ -52,7 +53,7 @@ h4 {
 .card{
   border: 2px solid #696969;
   border-radius: 5px;
-  padding: 5%;
+  padding: 5px;
 }
 
 
