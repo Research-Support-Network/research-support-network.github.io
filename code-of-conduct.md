@@ -72,3 +72,5 @@ If anyone violates this Code of Conduct in interactions with the list's maintain
 #### About this Document
 
 This document is derived from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (retrieved 2022-03-12, Copyright © [The Carpentries](https://carpentries.org), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). It has been amended and simplified in accordance with the small scope of the Expert Volunteer List. The initial contributors to this Code of Conduct were Jonas Hartmann, Elisabeth Kugler, Toby Hodges and Renato Alves.
+
+[Back to main page](index.md)

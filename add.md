@@ -28,7 +28,7 @@ Make sure you read the information on the [main page](https://research-support-n
   </div>
 
 <div class="mb-3 row">
-    <label for="form-email" class="form-label">E-mail</label>
+    <label for="form-email" class="form-label">E-mail</label><br>
     <small class="text-muted">You may wish to obscure your email (e.g. "jane [dot] doe [at] uni.org") to make it harder for bots to read.</small>
     <input id="form-email" name="fields[email]" type="text" required>
   </div>
@@ -39,13 +39,13 @@ Make sure you read the information on the [main page](https://research-support-n
   </div>
 
 <div class="mb-3 row">
-    <label for="form-languages" class="form-label">Languages</label>
+    <label for="form-languages" class="form-label">Languages</label><br>
     <small class="text-muted">Please specify language(s) by order of preference and separated by commas (e.g. "English, French").</small>
     <input id="form-languages" name="fields[languages]" type="text" required>
   </div>
 
 <div class="mb-3 row">
-    <label for="form-expertise" class="form-label">Expertise</label>
+    <label for="form-expertise" class="form-label">Expertise</label><br>
     <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
     <textarea id="form-expertise" name="fields[expertise]"></textarea>
