@@ -46,7 +46,8 @@ h4 {
 h5 {
   font-size: 1.125rem;
   margin-top: 1.5rem;
-  padding-left: 40px;
+  padding-left: 20px;
+  font-style: italic;
 }
 
 ul li ul li p{
@@ -73,29 +74,28 @@ ul li ul li p{
 
 /* --- Submission form --- */
 
-input {
-  display: block;
-  width: 50%;
-}
-
-textarea {
-  display: block;
-  width: 100%;
-}
-
 .mb-3 {
   margin-top: 20px;
   width: 80%;
   font-weight: bold;
 }
 
-.mb-3 small{
-  width: 50%;
-}
-
 .mb-3 .text-muted{
   font-weight: normal;
   font-style: italic;
+  color: #696969;
+  margin-top: 5px;
+
+input {
+  display: block;
+  width: 50%;
+  margin-top: 5px;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  margin-top: 5ox;
 }
 
 button {
