@@ -29,7 +29,7 @@ Note that we expect users of this list to follow our [Code of Conduct](code-of-c
 {% for member_name in site.data.members %}
 {% assign member = member_name[1] %}
 
-<figure class="col-6@xs col-6@sm col-6@md picture-item picture-item--h2" data-groups='["{{ member.country }}"]' data-title="{{ member.name | strip_html | escape }} {{ member.country | strip_html | escape }} {{ member.affiliation | strip_html | escape }} {{ member.languages | strip_html | escape }} {{ member.expertise | strip_html | escape }} ">
+<figure class="col-6@xs col-6@sm col-6@md picture-item picture-item--h2" data-groups='["{{ member.country | strip_html | escape }}"]' data-title="{{ member.name | strip_html | escape }} {{ member.country | strip_html | escape }} {{ member.affiliation | strip_html | escape }} {{ member.languages | strip_html | escape }} {{ member.expertise | strip_html | escape }} ">
   <div class="picture-item__inner">
     <div class="picture-item__details">
       <figcaption class="picture-item__title"><em>{{ member.name | strip_html | escape }}</em></figcaption>
