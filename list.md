@@ -39,8 +39,8 @@ Note that we expect users of this list to follow our [Code of Conduct](code-of-c
       <strong>Affiliation:</strong> {{ member.affiliation | strip_html | escape }}<br/>
       <strong>Country:</strong> {{ member.country | strip_html | escape }}<br/>
       <strong>E-mail:</strong> {{ member.email | strip_html | escape }}<br/>
-      {% if member.website %}<strong>Website:</strong> {{ member.website | strip_html | escape }}<br/>{% endif %}
-      {% if member.languages %}<strong>Languages:</strong> {{ member.languages | strip_html | escape }}<br/>{% endif %}
+      {% if member.website and member.website != "" %}<strong>Website:</strong> {{ member.website | strip_html | escape }}<br/>{% endif %}
+      {% if member.languages and member.languages != "" %}<strong>Languages:</strong> {{ member.languages | strip_html | escape }}<br/>{% endif %}
       <strong>Expertise:</strong> {{ member.expertise | strip_html | escape | truncate: 450 }}
     </p>
   </div>
