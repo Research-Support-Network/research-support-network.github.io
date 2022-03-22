@@ -48,7 +48,7 @@ Make sure you read the information on the [main page](https://research-support-n
     <label for="form-expertise" class="form-label">Expertise</label><br>
     <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
-    <textarea id="form-expertise" name="fields[expertise]"></textarea>
+    <textarea id="form-expertise" name="fields[expertise]" required></textarea>
   </div>
 
 <p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="code-of-conduct.html">Code of Conduct</a> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
