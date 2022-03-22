@@ -14,41 +14,41 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-name" class="form-label">Name</label>
-    <input id="form-name" name="fields[name]" type="text" required>
+    <input id="form-name" name="fields[name]" type="text" maxlength=100 required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-affiliation" class="form-label">Affiliation</label>
-    <input id="form-affiliation" name="fields[affiliation]" type="text" required>
+    <input id="form-affiliation" name="fields[affiliation]" type="text" maxlength=100 required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-country" class="form-label">Country</label>
-    <input id="form-country" name="fields[country]" type="text" required>
+    <input id="form-country" name="fields[country]" type="text" maxlength=100 required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-email" class="form-label">E-mail</label><br>
     <small class="text-muted">You may wish to obscure your email (e.g. "jane [dot] doe [at] uni.org") to make it harder for bots to read.</small>
-    <input id="form-email" name="fields[email]" type="text" required>
+    <input id="form-email" name="fields[email]" type="text" maxlength=100 required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-website" class="form-label">Website (optional)</label>
-    <input id="form-website" name="fields[website]" type="text">
+    <input id="form-website" name="fields[website]" type="text" maxlength=100>
   </div>
 
 <div class="mb-3 row">
     <label for="form-languages" class="form-label">Languages</label><br>
     <small class="text-muted">Please specify language(s) by order of preference and separated by commas (e.g. "English, French").</small>
-    <input id="form-languages" name="fields[languages]" type="text" required>
+    <input id="form-languages" name="fields[languages]" type="text" maxlength=100 required>
   </div>
 
 <div class="mb-3 row">
     <label for="form-expertise" class="form-label">Expertise</label><br>
     <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
-    <textarea id="form-expertise" name="fields[expertise]" required></textarea>
+    <textarea id="form-expertise" name="fields[expertise]" maxlength=400 required></textarea>
   </div>
 
 <p>By clicking "submit", you agree that the data you have entered will be incorporated in our openly accessible list of volunteer experts willing to be contacted by  scientists forced to refocus on computational work due to a crisis. You further agree to follow our <a href="code-of-conduct.html">Code of Conduct</a> and accept that your entry will be removed from the list if any Code of Conduct violations are reported.</p>
