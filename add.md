@@ -46,7 +46,7 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-expertise" class="form-label">Expertise</label><br>
-    <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in.</small>
+    <small class="text-muted">Please use keywords to indicate the fields of research, types of data, computational techniques, software and/or programming languages that you have expertise in. Maximum length is 400 characters.</small>
   <small class="text-muted">To facilitate moderation, only entries in English are accepted.</small>
     <textarea id="form-expertise" name="fields[expertise]" maxlength=400 required></textarea>
   </div>
