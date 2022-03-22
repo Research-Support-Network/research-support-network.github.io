@@ -13,8 +13,8 @@ for file in glob(f"{data_path}/*"):
     with open(file) as fh:
         ymlf = yaml.load(fh, Loader=yaml.FullLoader)
         for key in ymlf:
-            if len(ymlf[key]) > 400:
-                print(f"File's '{file}' field '{key}' is larger than 400 characters")
+            if len(ymlf[key]) > LENGTH:
+                print(f"File's '{file}' field '{key}' is {len(ymlf[key])} characters long when only {LENGTH} are allowed.")
                 EXITSTATUS = 1
 
 sys.exit(EXITSTATUS)
