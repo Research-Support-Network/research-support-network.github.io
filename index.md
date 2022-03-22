@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-***<font color=red>Site under construction! Please do not sign up yet! We will launch shortly!</font>***
+***<font color=red>Site under construction! Please do not sign up yet (except stress testers)! We will launch shortly!</font>***
 
 ----
 
@@ -71,7 +71,7 @@ Computational experts who sign up to this list consent to being contacted (via t
 
 #### Admin Notes
 
-- If you would like to be removed from the list or have your email / details changed, please raise an issue on the project's https://github.com/Research-Support-Network/research-support-network.github.io or write to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).
+- If you would like to be removed from the list or have your email / details changed, please raise an issue on the project's [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) or write to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).
 
 - Please report any problems with the submission form or with the list by raising an issue on the [GitHub repo](https://github.com/Research-Support-Network/research-support-network.github.io) or writing an email to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).
 
