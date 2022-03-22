@@ -9,3 +9,4 @@ This repo hosts a list of researchers with computational expertise volunteering 
 ---
 
 To contact the list's maintainers, report any bugs, or request removal or amendment of your entry in the list, please raise an issue in this repo or write to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).
+For general discussion you can find some of us [on matrix.org](https://matrix.to/#/#research-support-network:matrix.org).
