@@ -59,6 +59,8 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <p>If you wish to have your entry removed at a later point, please open an issue on the project's <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub repo</a> or write to <a href="mailto:expertvolunteerlist@gmail.com">expertvolunteerlist@gmail.com</a>.</p>
 
+<p><em>If you encounter an Application Error upon submission, please come back and try again in a few hours. If the problem persists, please let us know via <a href="https://github.com/Research-Support-Network/research-support-network.github.io">GitHub</a> or <a href="mailto:expertvolunteerlist@gmail.com">email</a>.</em></p>
+  
 <div class="mb-3 row">
     <button type="submit" class="btn btn-primary mb-3">Submit</button>
   </div>
