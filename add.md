@@ -23,7 +23,8 @@ Make sure you read the information on the [main page](https://research-support-n
   </div>
 
 <div class="mb-3 row">
-    <label for="form-country" class="form-label">Country</label>
+    <label for="form-country" class="form-label">Country</label><br>
+    <small class="text-muted">The state/country you work in. Mainly useful for time zone coordination.</small>
     <input id="form-country" name="fields[country]" type="text" maxlength=100 required>
   </div>
 
