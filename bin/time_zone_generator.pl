@@ -5,7 +5,7 @@ use strict;
 use DateTime::TimeZone::Catalog;
 
 say '<select id="form-timezone" name="fields[timezone]" required>';
-say "\t" . '<option disabled="disabled" selected="selected">Select an option.</option>';
+say "\t" . '<option disabled="disabled" selected="selected" value>Select an option.</option>';
 
 for my $cont ( sort keys %DateTime::TimeZone::Catalog::CATEGORIES ) {
     say "\t" . '<optgroup label="' . $cont . '">';
