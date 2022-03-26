@@ -25,7 +25,7 @@ Make sure you read the information on the [main page](https://research-support-n
 <div class="mb-3 row">
     <label for="form-timezone" class="form-label">Timezone</label><br>
     <select id="form-timezone" name="fields[timezone]" required>
-        <option disabled="disabled" selected="selected">Select an option.</option>
+        <option disabled="disabled" selected="selected" name="">Select an option.</option>
         <optgroup label="Africa">
             <option name="Africa/Abidjan">Abidjan</option>
             <option name="Africa/Accra">Accra</option>
