@@ -5,11 +5,7 @@ layout: default
 
 **A list of researchers with computational expertise who are willing to provide virtual support and advice for scientists forced to refocus on computational work due to a crisis.**
 
----
 
-***<font color=red>Site under construction! Please do not sign up yet (except stress testers)! We will launch shortly!</font>***
-
-----
 
 **Expert volunteers:** [Sign up here](add.html) if you are willing to be contacted by displaced scientists who need advice on computational work.
 
