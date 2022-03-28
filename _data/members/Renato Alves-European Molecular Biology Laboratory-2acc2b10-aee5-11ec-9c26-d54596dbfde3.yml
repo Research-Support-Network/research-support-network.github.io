@@ -1,0 +1,11 @@
+_id: 2acc2b10-aee5-11ec-9c26-d54596dbfde3
+name: Renato Alves
+affiliation: European Molecular Biology Laboratory
+timezone: Europe/Berlin
+email: renato.alves@embl.de
+website: 'https://bio-it.embl.de/renato-alves/'
+languages: 'English, Portuguese, Spanish, French'
+expertise: >-
+  (meta)genomics, (meta)transcriptomics, data analysis, data visualization,
+  python, R, bash, high performance computing (slurm), django, jekyll, and other
+  web development technologies, linux at sysadmin level.
