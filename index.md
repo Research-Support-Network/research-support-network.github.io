@@ -67,7 +67,7 @@ Computational experts who sign up to this list consent to being contacted (via t
   
   - [CodeRefinery](https://coderefinery.org/)
 
-- The research support network team would be available to organise a training workshop, if multiple people are interested in these materials. To express interest for such workshops, please contact us at: [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com), indicating the specific topic you would like to learn about.
+- The research support network team would be available to organise a training workshop if there is enough interest for it. Please let us know if you're interested in attending such training via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeVDM0M6zQPcWLpn0OVPp30QHyRk80JgSZfSOYe68Lx6cg-8Q/viewform?usp=sf_link).
 
 #### Admin Notes
 
