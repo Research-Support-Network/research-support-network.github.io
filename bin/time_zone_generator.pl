@@ -13,9 +13,9 @@ for my $cont ( sort keys %DateTime::TimeZone::Catalog::CATEGORIES ) {
 
         say "\t\t"
           . '<option name="'
-          . $cont . '/'
-          . $zone . '">'
-          . $zone
+          . $cont . '/' . $zone
+          . '">'
+          . $cont . '/' . $zone
           . '</option>';
     }
     say "\t" . '</optgroup>';
