@@ -7,5 +7,5 @@ website: 'https://bio-it.embl.de/renato-alves/'
 languages: 'English, Portuguese, Spanish, French'
 expertise: >-
   (meta)genomics, (meta)transcriptomics, data analysis, data visualization,
-  python, R, bash, high performance computing (slurm), django, jekyll, and other
-  web development technologies, linux at sysadmin level.
+  python, R, bash, git, high performance computing (slurm), django, jekyll,
+  and other web development technologies, linux at sysadmin level.
