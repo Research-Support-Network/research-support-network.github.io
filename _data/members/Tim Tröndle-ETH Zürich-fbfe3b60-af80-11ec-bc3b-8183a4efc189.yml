@@ -1,0 +1,12 @@
+_id: fbfe3b60-af80-11ec-bc3b-8183a4efc189
+name: Tim Tröndle
+affiliation: ETH Zürich
+timezone: Europe/Zurich
+email: 'tim [dot] troendle [at] usys.ethz.ch'
+website: 'https://cp.ethz.ch/people/person-detail.tim-troendle.html'
+languages: 'English, German'
+expertise: >-
+  Geospatial, time series, and categorical data analysis and visualisation
+  (Python stack); statistics (Python); high performance computing (LSF);
+  scientific workflows (Snakemake, make); reproducibility (conda); version
+  control (Git)
