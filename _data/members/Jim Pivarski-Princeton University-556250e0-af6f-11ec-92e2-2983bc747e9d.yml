@@ -1,0 +1,14 @@
+_id: 556250e0-af6f-11ec-92e2-2983bc747e9d
+name: Jim Pivarski
+affiliation: Princeton University
+timezone: America/Chicago
+email: '[pivarski@princeton.edu](mailto:pivarski@princeton.edu)'
+website: English and written (non-verbal) French
+languages: English and written (non-verbal) French
+expertise: >-
+  Python/NumPy, interface with C/C++, performance optimization, parallel
+  processing, basic GPU programming (Nvidia CUDA), functional programming
+  (immutable data structures, Scala), basic git/GitHub, Linux commandline, data
+  analysis techniques (exploratory EDA, regression, clustering, decision trees,
+  basic machine learning/ML), statistics (confidence intervals, hypothesis
+  testing), particle physics.
