@@ -75,5 +75,5 @@ Computational experts who sign up to this list consent to being contacted (via t
 
 ### Contact
 
-Please raise an issue on the project's [GitHub](https://github.com/Research-Support-Network/research-support-network.github.io) repo or write to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).
+Please raise an issue on the project's [GitHub](https://github.com/Research-Support-Network/research-support-network.github.io) repo or write to [expertvolunteerlist@gmail.com](mailto:expertvolunteerlist@gmail.com).  
 For general discussion you can find some of us [on matrix.org](https://matrix.to/#/#research-support-network:matrix.org).
