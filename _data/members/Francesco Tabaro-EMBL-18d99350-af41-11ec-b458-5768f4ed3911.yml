@@ -1,8 +1,8 @@
 _id: 18d99350-af41-11ec-b458-5768f4ed3911
 name: Francesco Tabaro
 affiliation: EMBL
-timezone: Europe/Riga
+timezone: Europe/Rome
 email: 'francesco[dot]tabaro[at]embl[dot]it'
 website: ''
 languages: 'English, Italian'
-expertise: "bulk and single cell RNA-seq data analysis, ChIP-seq and CUT&RUN data analysis, RRBS data analysis. Data visualization, statistical modeling.\r\n\r\nSnakemake, Python, R, Slurm, HPC, Linux, git, GitHub, GitLab, CI/CD, Singularity."
+expertise: "bulk and single cell RNA-seq, ChIP-seq and CUT&RUN, RRBS, data visualization, statistical modeling, Snakemake, Python, R, Bash, JavaScript, Slurm, high performance computation, Linux, git, CI/CD, Singularity, Jekyll, web development"
