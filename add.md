@@ -14,12 +14,12 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-name" class="form-label">Name</label>
-    <input id="form-name" name="fields[name]" type="text" pattern="[A-Za-z.\-\(\)]{100}" maxlength=100 required>
+    <input id="form-name" name="fields[name]" type="text" maxlength=100 required>
 </div>
 
 <div class="mb-3 row">
     <label for="form-affiliation" class="form-label">Affiliation</label>
-    <input id="form-affiliation" name="fields[affiliation]" type="text" pattern="[A-Za-z.\-\(\)]{100}" maxlength=100 required>
+    <input id="form-affiliation" name="fields[affiliation]" type="text" maxlength=100 required>
 </div>
 
 <div class="mb-3 row">
