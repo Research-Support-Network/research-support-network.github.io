@@ -1,0 +1,10 @@
+_id: 5e37dc80-b00f-11ec-bc95-398d3a1811b7
+name: Balthasar Reuter
+affiliation: European Centre for Medium-Range Weather Forecasts
+timezone: Europe/London
+email: 'balthasar [dot] reuter [at] ecmwf [dot] int'
+website: ''
+languages: 'English, German'
+expertise: >-
+  Python, Fortran, C++, high-performance computing (HPC), GPU programming,
+  numerical methods for PDEs
