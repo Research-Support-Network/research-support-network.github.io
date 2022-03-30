@@ -14,12 +14,14 @@ Make sure you read the information on the [main page](https://research-support-n
 
 <div class="mb-3 row">
     <label for="form-name" class="form-label">Name</label>
-    <input id="form-name" name="fields[name]" type="text" maxlength=100 required>
+    <small class="text-muted">The character "/" is not allowed in this field</small>
+    <input id="form-name" name="fields[name]" type="text" pattern="[^\/]{1,100}" maxlength=100 required>
 </div>
 
 <div class="mb-3 row">
     <label for="form-affiliation" class="form-label">Affiliation</label>
-    <input id="form-affiliation" name="fields[affiliation]" type="text" maxlength=100 required>
+    <small class="text-muted">The character "/" is not allowed in this field</small>
+    <input id="form-affiliation" name="fields[affiliation]" type="text" pattern="[^\/]{1,100}" maxlength=100 required>
 </div>
 
 <div class="mb-3 row">
