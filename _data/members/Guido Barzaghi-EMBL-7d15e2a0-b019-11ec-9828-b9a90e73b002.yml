@@ -1,0 +1,10 @@
+_id: 7d15e2a0-b019-11ec-9828-b9a90e73b002
+name: Guido Barzaghi
+affiliation: EMBL
+timezone: Europe/Berlin
+email: 'guido [dot] barzaghi [at] embl [dot] org'
+website: ''
+languages: English
+expertise: >-
+  R, bioconductor, Git/GitHub, bash, nextflow, statistics, NGS data analysis,
+  molecular biology
