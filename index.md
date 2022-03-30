@@ -49,9 +49,9 @@ Computational experts who sign up to this list consent to being contacted (via t
 
 - This list is not intended for requesting in-person meetings, lab space, or other forms of support that do not qualify as remote computational support. There are numerous other sites that aim to fulfill these needs, including:
   
-  - Labs offering to host displaced scientists from Ukraine can be found on the [EMBO Solidarity List](https://www.embo.org/solidarity-with-ukraine/) and in [this Google Sheet](https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758), among other places.
+  - Labs offering to host displaced scientists from Ukraine can be found via [Science for Ukraine](https://scienceforukraine.eu/), [EMBO Solidarity List](https://www.embo.org/solidarity-with-ukraine/), and in this [Google Sheet](https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/edit#gid=320641758), among other places.
   
-  - The ASEEES has compiled [a list of resources](https://www.aseees.org/resources/help-displaced-scholars-ukraine) for helping displaced scholars from Ukraine.
+  - The ASEEES has compiled a [list of resources](https://www.aseees.org/resources/help-displaced-scholars-ukraine) for helping displaced scholars from Ukraine.
   
   - The [SUCHO](https://www.sucho.org/) (Saving Ukrainian Cultural Heritage Online) initiative is another way in which people with computational expertise can help mitigate one of the impacts of the war.
 
