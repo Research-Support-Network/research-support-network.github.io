@@ -1,0 +1,10 @@
+_id: a482c320-b02e-11ec-87df-53bdefb2ef99
+name: François Michonneau
+affiliation: The Carpentries
+timezone: Europe/Paris
+email: francois.michonneau@gmail.com
+website: 'https://francoismichonneau.net'
+languages: 'English, French'
+expertise: >-
+  R, tidyverse, Biodiversity data, Phylogenetics, PostgreSQL, PostGIS, GitHub,
+  Docker
