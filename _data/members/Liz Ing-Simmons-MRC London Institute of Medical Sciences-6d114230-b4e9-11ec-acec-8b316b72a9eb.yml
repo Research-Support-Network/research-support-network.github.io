@@ -1,0 +1,10 @@
+_id: 6d114230-b4e9-11ec-acec-8b316b72a9eb
+name: Liz Ing-Simmons
+affiliation: MRC London Institute of Medical Sciences
+timezone: Europe/London
+email: 'liz [dot] ing-simmons [at] imperial.ac.uk'
+website: ''
+languages: English
+expertise: >-
+  genomics sequencing data analysis, Hi-C, scRNA-seq, scATAC-seq, R, Python,
+  Snakemake, Git/GitHub
