@@ -3,6 +3,17 @@ title: Research Support Network - Expert Volunteer List
 layout: default
 ---
 
+---
+
+🚨 This project will be sunset and its repository archived on Jan 31st 2026 🚨
+
+All personal data will be stripped out from the website and repository history.
+
+A big **Thank you!** to everyone that offered support through this initiative.
+
+---
+
+
 **A list of researchers with computational expertise who are willing to provide virtual support and advice for scientists forced to refocus on computational work due to a crisis.**
 
 
