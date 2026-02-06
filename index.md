@@ -5,9 +5,9 @@ layout: default
 
 ---
 
-🚨 This project will be sunset and its repository archived on Jan 31st 2026 🚨
+🚨 This project has been sunset and its repository archived 🚨
 
-All personal data will be stripped out from the website and repository history.
+All personal data was stripped out from the website and repository history.
 
 A big **Thank you!** to everyone that offered support through this initiative.
 
