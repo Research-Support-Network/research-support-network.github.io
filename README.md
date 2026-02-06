@@ -2,7 +2,7 @@
 
 ---
 
-🚨 This project has been sunset and its repository archived on Jan 31st 2026 🚨
+🚨 This project has been sunset and its repository archived 🚨
 
 All personal data has been stripped out from the website and repository history.
 
